@@ -159,7 +159,7 @@ const Modal = ({
               {/* FOOTER */}
               <div className="flex flex-col gap-2 p-6">
                 <div
-                  className="
+                  className=" 
                 flex
                 justify-center
                 flex-row
